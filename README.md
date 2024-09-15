@@ -2,7 +2,7 @@
 - 👀 I’m interested in Coding(obv), Cyber Security
 - 🌱 I’m currently learning Python and Javascript
 - 💞️ I’m looking to collaborate on nothing
-- 📫 How to reach me Instagram @thehsb_ , LinkedIn Harshit Singh bhandari
+- 📫 How to reach me Instagram https://www.instagram.com/thehsb_ , LinkedIn Harshit Singh bhandari
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I am not a funny guy if you don't know me.
 
